@@ -1,0 +1,28 @@
+{
+  "name": "twitter-bot-template",
+  "version": "1.0.0",
+  "description": "A node.js template to build easy, simple Twitter Bots",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vassourita/twitter-bot-template.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "template",
+    "api"
+  ],
+  "author": "Vinicius Vassão",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vassourita/twitter-bot-template/issues"
+  },
+  "homepage": "https://github.com/vassourita/twitter-bot-template#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
