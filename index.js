@@ -18,7 +18,7 @@ const config = {
  * - If "example" is between the selected words, the bot will retweet any variation of the word:
  *   example,Example,EXAMPLE,ExAmPlE...
  */
-const words = 'yoonmin,#yoonmin';
+const words = '#yoonminweek,#yoonmin';
 
 /*
  * - Change 'mybot' with your bot account '@'.
